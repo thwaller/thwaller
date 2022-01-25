@@ -1,6 +1,6 @@
 What GitHub says are my top languages, clearly not considering repos owned by orgs:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thwaller&layout=compact&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thwaller&layout=compact&langs_count=8&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **thwaller/thwaller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
